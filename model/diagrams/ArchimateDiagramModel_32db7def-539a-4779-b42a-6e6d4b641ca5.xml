@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="主视图"
+    id="32db7def-539a-4779-b42a-6e6d4b641ca5">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="25170f6e-ca7f-4550-96da-468dca888dff"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="408"
+        y="132"
+        width="400"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="3fca7c19-e51c-423d-ae22-c01e2d4aef48"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="252"
+        y="295"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
