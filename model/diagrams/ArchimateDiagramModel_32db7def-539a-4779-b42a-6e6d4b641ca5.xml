@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="主视图"
+    name="业务架构综合视图"
     id="32db7def-539a-4779-b42a-6e6d4b641ca5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
